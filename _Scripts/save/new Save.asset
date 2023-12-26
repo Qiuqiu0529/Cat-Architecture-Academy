@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64418ae764eab914bb13dbb100aadb18, type: 3}
+  m_Name: new Save
+  m_EditorClassIdentifier: 
+  achieve: 0000000000
+  unlockChapter: 0000000000
+  unlockCreate: 0
+  achieveTime:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
